@@ -1,5 +1,9 @@
 # Prática de SQL 💾
 
+## ScreenShoot 📱
+
+![Screenshot](https://github.com/user-attachments/assets/331e4ab3-e636-4d1a-8348-4c25da766f5d)
+
 ## Tabelas 🛠️
 
 - **ALUNOS**: nome, e-mail, data de nascimento, endereço e se o pagamento está em dia.
