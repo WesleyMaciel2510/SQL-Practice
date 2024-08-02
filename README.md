@@ -1,5 +1,7 @@
 # Prática de SQL 💾
 
+## Para fins didáticos, foi utilizada a plataforma Oracle Live SQ (https://livesql.oracle.com). É um serviço online gratuito oferecido pela Oracle para aprendizado de SQL e PL/SQL. Ele é baseado em Apex e fornece aos usuários acesso a um banco de dados Oracle.
+
 ## ScreenShoot 📱
 
 ![Screenshot](https://github.com/user-attachments/assets/331e4ab3-e636-4d1a-8348-4c25da766f5d)
