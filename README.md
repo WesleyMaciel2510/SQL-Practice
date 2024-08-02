@@ -13,13 +13,13 @@
 - **DISCIPLINAS**: nome e o professor responsável.
 - **RELACIONAMENTO_ALUNOS_DISCIPLINAS**: Tabela para relacionar alunos com disciplinas, incluindo a nota e se o aluno foi aprovado.
 
-## Visualização de Dados 🔍
+# Visualização de Dados 🔍
 
-## Inserção de Dados 📝
+# Inserção de Dados 📝
 
-## Atualização de Dados ✏️
+# Atualização de Dados ✏️
 
-## Exclusão de Dados 🗑️
+# Exclusão de Dados 🗑️
 
 ## Joins 🔗
 
